@@ -1,0 +1,14 @@
+{
+  "name": "Kuittikansio",
+  "short_name": "Kuittikansio",
+  "description": "Kuitit ja PDF-raportit luottokorttilaskulle.",
+  "lang": "fi",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f4f2ec",
+  "theme_color": "#173b34",
+  "icons": [
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ]
+}
